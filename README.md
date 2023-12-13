@@ -1,3 +1,5 @@
+Moved to invenhost/plugins
+
 # InvenHost meta docs
 
 DESC:  Docs for InvenHost (the product/plattform)
